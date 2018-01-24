@@ -6,5 +6,6 @@
 # make
 # _output/bin/node-helper -kubeconfig=/root/.kube/config 
 
+test git commit 
 ```
 
